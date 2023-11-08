@@ -2,4 +2,6 @@
 
 ## project 001
 
-My name is John Anthony. I am building a web scraper application. I will begin this project when I schedule time after work today.
+<p> My name is John Anthony.</p>
+
+<p> Code the first 1 hour today and get familiar with the new processes</p>
