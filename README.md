@@ -1,7 +1,5 @@
 # codingBYanthony
 
-## project 001
+<p>My name is John Anthony.</p>
 
-<p> My name is John Anthony.</p>
-
-<p> Install Nextjs </p>
+<p>I am building a web scraper app to keep doing large projects to find better employment opportunities</p>
